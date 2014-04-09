@@ -1,0 +1,2 @@
+Elias omega coding is a universal code encoding the positive integers developed by Peter Elias. Like Elias gamma coding and Elias delta coding, it works by prefixing the integer with a representation of its order of magnitude in a universal code. Unlike those other two codes, however, Elias omega recursively encodes that prefix; thus, they are sometimes known as recursive Elias codes.
+Omega coding is used in applications where the largest encoded value is not known ahead of time, or to compress data in which small values are much more frequent than large values.
